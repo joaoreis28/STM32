@@ -14,7 +14,7 @@ Each project will be accompanied by detailed explanations, code, and necessary c
 
 ## Tools and Technologies
 
-- **Microcontroller:** STM32 series
+- **Microcontroller:** STM32 Nucleo-L476RG
 - **IDE:** STM32CubeIDE
 - **Programming Language:** C/C++
 - **Libraries:** STM32 HAL/LL Drivers (Hardware Abstraction Layer/Low Layer)
@@ -36,4 +36,6 @@ Check the respective project folder for detailed documentation and code.
    ```bash
    git clone https://github.com/your-username/stm32-projects.git
 2. Open the project of your choice in STM32CubeIDE
-3.aaaa
+
+
+
